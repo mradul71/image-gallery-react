@@ -1,3 +1,6 @@
+A photo gallery implemented using React and Firebase
+Here you can upload image and also view them in realtime.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
